@@ -16,13 +16,13 @@ public enum Animals {
     }
 }
 
-     class Main {
+class Main {
 
-        public static void main(String[] arg) {
-            System.out.println(Animals.Lion.toString());
-            System.out.println(Animals.Dog.toString());
-            System.out.println(Animals.Cat.toString());
-        }
+    public static void main(String[] arg) {
+        System.out.println(Animals.Lion.toString());
+        System.out.println(Animals.Dog.toString());
+        System.out.println(Animals.Cat.toString());
     }
+}
 
 
